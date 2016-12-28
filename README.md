@@ -1,7 +1,6 @@
 Rabbitmq [![Build Status](https://travis-ci.org/opendena/ansible-rabbitmq.svg?branch=master)](https://travis-ci.org/opendena/ansible-rabbitmq) [![Ansible Role](https://img.shields.io/ansible/role/10049.svg?maxAge=2592000)](https://galaxy.ansible.com/opendena/rabbitmq/)
 =========
 
-
 Setup rabbitmq
 
 Requirements
